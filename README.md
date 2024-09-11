@@ -1,4 +1,4 @@
-# ComfyUI-DiLightNet (WIP)
+# ComfyUI-DiLightNet
 
 ComfyUI nodes to use [DiLightNet](https://github.com/iamNCJ/DiLightNet)
 
