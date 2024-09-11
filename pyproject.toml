@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-dilightnet"
+description = "ComfyUI nodes to use [a/DiLightNet](https://github.com/iamNCJ/DiLightNet).\nThese nodes can run DiLightNet, but the Dust3r or BlenderPy implementations to create lighting are not included. Expect those to be added to seperate repos when time allows."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/logtd/ComfyUI-DiLightNet"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-DiLightNet"
+Icon = ""
