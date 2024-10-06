@@ -9,6 +9,6 @@ Repository = "https://github.com/logtd/ComfyUI-DiLightNet"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "logtd"
 DisplayName = "ComfyUI-DiLightNet"
 Icon = ""
